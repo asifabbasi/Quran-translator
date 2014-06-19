@@ -26,6 +26,8 @@
 		47DA0C4B1805605F00F1F544 /* ModelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47DA0C461805605F00F1F544 /* ModelController.m */; };
 		B22A089A194FD24300B2436D /* en.yusufali.xml in Resources */ = {isa = PBXBuildFile; fileRef = B22A0899194FD24300B2436D /* en.yusufali.xml */; };
 		B23F4320195348E0003356AD /* en.yusufali.xml in Resources */ = {isa = PBXBuildFile; fileRef = B22A0899194FD24300B2436D /* en.yusufali.xml */; };
+		B23F432619538F88003356AD /* ahmed-al-ajmi-001-al-fatiha-858-658.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B23F432519538F88003356AD /* ahmed-al-ajmi-001-al-fatiha-858-658.mp3 */; };
+		B23F432819538F98003356AD /* 1st surah time in ms.txt in Resources */ = {isa = PBXBuildFile; fileRef = B23F432719538F98003356AD /* 1st surah time in ms.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +66,8 @@
 		47DA0C451805605F00F1F544 /* ModelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ModelController.h; path = Classes/ModelController.h; sourceTree = "<group>"; };
 		47DA0C461805605F00F1F544 /* ModelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ModelController.m; path = Classes/ModelController.m; sourceTree = "<group>"; };
 		B22A0899194FD24300B2436D /* en.yusufali.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = en.yusufali.xml; sourceTree = "<group>"; };
+		B23F432519538F88003356AD /* ahmed-al-ajmi-001-al-fatiha-858-658.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ahmed-al-ajmi-001-al-fatiha-858-658.mp3"; sourceTree = "<group>"; };
+		B23F432719538F98003356AD /* 1st surah time in ms.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1st surah time in ms.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +160,8 @@
 				472E81A517F5CC2500F606CE /* Main_iPhone.storyboard */,
 				472E81A817F5CC2500F606CE /* Main_iPad.storyboard */,
 				472E81CE17F5CEA400F606CE /* quran-simple.xml */,
+				B23F432719538F98003356AD /* 1st surah time in ms.txt */,
+				B23F432519538F88003356AD /* ahmed-al-ajmi-001-al-fatiha-858-658.mp3 */,
 				B22A0899194FD24300B2436D /* en.yusufali.xml */,
 			);
 			name = Resources;
@@ -241,7 +247,9 @@
 				472E81B217F5CC2500F606CE /* Images.xcassets in Resources */,
 				472E81CF17F5CEA400F606CE /* quran-simple.xml in Resources */,
 				472E81A717F5CC2500F606CE /* Main_iPhone.storyboard in Resources */,
+				B23F432619538F88003356AD /* ahmed-al-ajmi-001-al-fatiha-858-658.mp3 in Resources */,
 				472E819E17F5CC2500F606CE /* InfoPlist.strings in Resources */,
+				B23F432819538F98003356AD /* 1st surah time in ms.txt in Resources */,
 				B22A089A194FD24300B2436D /* en.yusufali.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E52D3DEE-A823-4275-A89B-5D89EDECE2F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quran</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1CA01C63-066D-4997-BD41-CB3D3D5B05B4</key>
+		<string>https://github.com/asifabbasi/Quran-translator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quran translator/Quran.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1CA01C63-066D-4997-BD41-CB3D3D5B05B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asifabbasi/Quran-translator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1CA01C63-066D-4997-BD41-CB3D3D5B05B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1CA01C63-066D-4997-BD41-CB3D3D5B05B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quran-translator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
